@@ -1,3 +1,8 @@
+# Important!!
+
+```sh
+brew install coreutils gnu-sed gawk
+```
 
 Tmux sysstat plugin
 ===================
